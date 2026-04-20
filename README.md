@@ -58,7 +58,7 @@
 
 ## 🚀 使用方法
 
-### 在 Homiclaw/Claude Code 中使用
+### 在OpenClaw/Claude Code 中使用
 
 #### 激活方式
 ```
